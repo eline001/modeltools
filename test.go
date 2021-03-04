@@ -1,8 +1,8 @@
 package main
 
 import (
-	"goa-org/internal/modeltools/dbtools"
-	"goa-org/internal/modeltools/generate"
+	"github.com/eline001/modeltools/dbtools"
+	"github.com/eline001/modeltools/generate"
 )
 
 func main() {
